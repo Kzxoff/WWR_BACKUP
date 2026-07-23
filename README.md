@@ -1,7 +1,7 @@
 # WWR_BACKUP
 Here is the wwr database.
 <p align="center">
-<img src=https://i.imgur.com/zO49hMu.png alt=logo width=320>
+<img src=https://static.wikia.nocookie.net/yokaiwatch/images/6/65/Yo-kai_Watch_Wibble_Wobble_logo.PNG alt=logo width=320>
 </p>
 
 ## What is this? 👀
