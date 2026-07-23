@@ -17,7 +17,8 @@ I am by no means a developer, nor am I responsible for your actions. I am simply
 ## HOW TO INSTALL? 📂
 
 Here are two links for installation (I tried to put everything on GitHub, but the files are too large) :
-1 - https://mega.nz/file/xk4nyYhZ#2C-wPXFMTR7lV6B-VuOc9pa0fpr1EWQA6rnFpixFjwE
+1 - https://mega.nz/file/xk4nyYhZ#2C-wPXFMTR7lV6B-VuOc9pa0fpr1EWQA6rnFpixFjwE 
+
 2 - https://www.mediafire.com/file/m66iwkdae57oort/WWR_BACKUP.7z/file
 I’d recommend using MediaFire – it’s easier and quicker.
 
